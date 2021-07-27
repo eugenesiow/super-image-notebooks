@@ -1,4 +1,4 @@
-# 🔎 Notebooks for `super-image`
+# 🔎 Notebooks for super-image
 
 You can find here a list of the official notebooks for using the [`super-image`](https://github.com/eugenesiow/super-image) library.
 
